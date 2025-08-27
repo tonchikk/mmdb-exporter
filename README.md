@@ -1,5 +1,7 @@
 # mmdb-exporter
 .mmdb file exporter
+## Build
+Just `go build`
 ## Usage
 ```
 $ ./mmdb-exporter -h
